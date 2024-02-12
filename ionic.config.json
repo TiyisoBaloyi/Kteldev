@@ -1,0 +1,7 @@
+{
+  "name": "Kteldev-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
